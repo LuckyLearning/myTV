@@ -1,5 +1,5 @@
 ```bash
-[https://cdn.jsdelivr.net/gh/LuckyLearning/myTV@master/output/user_result.txt](https://ghgo.xyz/raw.githubusercontent.com/LuckyLearning/myTV/master/output/user_result.txt)
+https://ghgo.xyz/raw.githubusercontent.com/LuckyLearning/myTV/master/output/user_result.txt
 ```
 ```bash
 https://cdn.jsdelivr.net/gh/LuckyLearning/myTV@master/output/user_result.txt

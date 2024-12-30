@@ -1,5 +1,8 @@
 ```bash
-https://cdn.jsdelivr.net/gh/LuckyLearning/myTV@master/output/user_result.txt</p>
+[https://cdn.jsdelivr.net/gh/LuckyLearning/myTV@master/output/user_result.txt](https://ghgo.xyz/raw.githubusercontent.com/LuckyLearning/myTV/master/output/user_result.txt)
+```
+```bash
+https://cdn.jsdelivr.net/gh/LuckyLearning/myTV@master/output/user_result.txt
 ```
 <div align="center">
   <img src="./static/images/logo.png" alt="logo"/>

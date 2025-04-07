@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-07 18:41:50,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/1.m3u8?$订阅源-IPv6-1920x1080
+2025-04-08 06:35:54,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/1.m3u8?$订阅源-IPv6-1920x1080
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/1.m3u8?$订阅源-IPv6-1920x1080
@@ -189,13 +189,14 @@ CETV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8$订阅
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv$订阅源-1920x1080
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1$订阅源-19x24
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2$订阅源-19x24
+CETV1,http://139.129.231.228:50060/rtp/239.21.2.7:5002$山东电信组播源
 CETV1,http://139.129.231.228:3529/rtp/239.21.2.7:5002$山东电信组播源
 CETV1,http://120.55.49.231:3095/rtp/233.50.201.75:5140$浙江电信组播源
-CETV1,https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8$订阅源
 CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$订阅源-IPv6-1920x1080
 CETV2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8$订阅源-IPv6-1920x1080
 CETV2,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000071$订阅源-IPv6-1920x1080
 CETV2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2$订阅源-19x24
+CETV2,http://139.129.231.228:50060/rtp/239.21.2.8:5002$山东电信组播源
 CETV2,http://139.129.231.228:3529/rtp/239.21.2.8:5002$山东电信组播源
 CETV2,https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8$订阅源
 CETV4,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3$订阅源-IPv6-1920x1080
@@ -204,10 +205,10 @@ CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$订阅
 CETV4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000072$订阅源-IPv6-1920x1080
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001$订阅源-1280x720
 CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4$订阅源-19x24
+CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002$山东电信组播源
 CETV4,http://139.129.231.228:3529/rtp/239.21.1.222:5002$山东电信组播源
-CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140$浙江电信组播源
 CETV4,http://183.11.239.36:808/hls/73/index.m3u8$订阅源
-CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8$订阅源
+CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140$浙江电信组播源
 
 📡卫视频道,#genre#
 广东卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/6000000001000031076/index.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=3$订阅源-IPv6-1920x1080
@@ -221,6 +222,7 @@ CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8$订阅源
 广东卫视,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000341/index.m3u8?$订阅源-IPv6-1920x1080
 广东卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000341/index.m3u8?IAS$订阅源-IPv6-1920x1080
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq$订阅源-720x576
+香港卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hkphoenix_twn/playlist.m3u8$订阅源-1920x1080
 香港卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$订阅源-1920x1080
 香港卫视,http://stream.qhbtv.com/adws/sd/live.m3u8$订阅源-1280x720
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$订阅源-720x576
